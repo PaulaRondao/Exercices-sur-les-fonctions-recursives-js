@@ -1,5 +1,4 @@
-# Consigne recursite
- exercice individuel  
+# Exercice individuel - la Récursité - JS
 ## Étape 1  
 Écrire une fonction sum1 qui prend un tableau d’entiers à additionner entre eux.     
 ## Étape 2    
