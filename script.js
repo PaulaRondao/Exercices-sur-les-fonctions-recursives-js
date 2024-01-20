@@ -50,9 +50,9 @@ function factorial(num) {
 //la suite de Fibonacci est une suite d'entiers dans laquelle chaque terme 
 //est la somme des deux termes qui le précèdent. 
 function fibonacci(x) {
-  var n1 = 0;
-  var n2 = 1;
-  var somme = 0;
+  let n1 = 0;
+  let n2 = 1;
+  let somme = 0;
 
   for (let i = 2; i <= x; i++) {
     //somme des deux derniers nombres
